@@ -12,3 +12,12 @@ for i in range(len(List)):
         j += 1
 if j == 0:
     print("Среди элементов нет чисел.")
+
+# можно и так
+# mass = ['ssss', 'sngujn556', 44]
+# types = [str(type(i)) for i in mass]
+# if "<class 'int'>" in types or "<class 'float'>" in types:
+#     print('Yes')
+# else:
+#     print('No')
+
