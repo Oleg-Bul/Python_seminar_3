@@ -30,3 +30,11 @@ else:
 # except ValueError:
 #     print(-1)
 
+# или так
+# mass = ["123", "234", "123", "567"]
+# a = "123"
+# if mass.count(a) <2:
+#     print(-1)
+# else:
+#     mass.remove(a)
+#     print((mass.index(a))+1)
